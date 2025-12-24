@@ -1,0 +1,14 @@
+SMS_QT
+
+Simple SMS client for serial modems using QT interface
+
+How to build:
+Install QT SDK.
+commands:
+mkdir build
+cd build
+cmake ..
+make
+# make install
+./sms_qt
+

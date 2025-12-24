@@ -1,0 +1,16 @@
+AT
+
+OK
+AT+CMGF=1
+
+OK
+AT+CMGL="ALL"
+
++CMGL: 1,"REC READ","+919148827205","","25/06/30,19:50:01+22"
+Let's chat on WhatsApp! It's a fast, simple to use a timer
+
++CMGL: 2,"REC READ","AX-AIRMCA-S","","25/07/01,11:57:50+22"
+The person you were calling at 11:56 is now available for calls. You can call again now. Get details of all these calls ONLY on Airtel Thanks App https:/
+
++CMGL: 3,"REC READ","AX-AIRMCA-S",""
+
