@@ -2,6 +2,8 @@
 
 **SMS_QT** is a **simple graphical SMS client** for **serial-based GSM modems**, built using the **Qt framework**.
 
+<img src="screenshot-sms_qt.png"/>
+
 It provides a lightweight interface for sending and receiving SMS messages over AT-command–compatible modems connected via serial ports.
 
 ---
